@@ -1,29 +1,29 @@
 # Site settings
-title: FF Blog
-SEOTitle: 傅枫的博客 | FF Blog
+title: Qiming's Blog
+SEOTitle: 启明&他的小可爱^-^ 的博客 | Qiming&his lover 's Blog
 header-img: img/post-bg-universe.jpg
-email: 897958555@qq.com
-description: "Every failure is leading towards success."
-keyword: "FF, FF Blog, 傅枫的博客, fufeng, 傅枫, 傅枫, fufeng, java"
-url: "http://micropieces.github.io"          # your host, for absolute URL
+email: 18qmxiao@stu.edu.cn
+description: "The place filled with love for you."
+keyword: "Qiming,启明&他的小可爱^-^ java"
+url: "http://I-love-you-.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/MicroPieces/micropieces.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "I love you ,my girl,aithough you have left me forever"
+sidebar-avatar:  https://img.ivsky.com/img/tupian/t/201009/10/penguin-011.jpg   # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     fufeng
-zhihu_username:     fufeng
-github_username:    fufeng
-facebook_username:  fufeng
-jianshu_username:   fufeng
-#twitter_username:   qiubaiying
+# weibo_username:     
+zhihu_username:     
+github_username:    
+facebook_username:  
+jianshu_username:   小mingmingming
+#twitter_username:  
 
 
 
@@ -64,8 +64,8 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: micropieces.github.io    #仓库名称
-  owner: micropieces    #github用户名
+  repo: I-love-you-.github.io    #仓库名称
+  owner: 启明&小云    #github用户名
   admin: micropieces
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
@@ -78,7 +78,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-#ga_domain: qiubaiying.top                默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_domain: auto          默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
